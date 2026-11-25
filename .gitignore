@@ -24,7 +24,6 @@ rustc-ice-*.txt
 #.idea/
 
 
-instructor-guide/
 project/
 prompt.txt
 architecture/
